@@ -1,6 +1,8 @@
 # Vflow 
 一个简单的可拖拽的流程框图，参考https://github.com/jerosoler/Drawflow 写的ts的版本,功能上基本一致,很多代码甚至是直接抄过来的，由于原作者不打算写ts版本的，于是就写了这个版本作为学习，初学前端和ts，请勿用于生产环境
 
+![演示图片](https://raw.githubusercontent.com/lozzo/vflow/main/demo.gif)
+
 ```vue
 <template>
   <div class="home">
